@@ -1,10 +1,10 @@
 # Personaje Navideño 2024
 ## Nombre del personaje
-El insano
+El muñeco Navideño
 ## Creador
 Marco Antonio Martinez Ramirez
 ## Explicacion del funcionamiento
-aun sin explicacion   
+El muñeco de nieve tendra la funcionalidad que gire sobre su propio eje, ademas de que la funcionalidad de que cuando una persona se acerque salude, que prendan y apaguen las luces leds y se pondra y quitara su sombrero con la otra mano   
 
 # Materiales a utilizar
 |Material|Imagen|Cantidad|Costo|
@@ -21,18 +21,34 @@ aun sin explicacion
 |Pantalla oled|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFDNhWZl2yt0Y4-FZHOt2BJRZ6hoYfxelTGQ&s" width="150">|1|120.0|
 |Pantalla lcd|<img src="https://http2.mlstatic.com/D_NQ_NP_985930-MLU73722591825_122023-O.webp" width="150">|1|85.0|
 ## Software a utilizar
-WOKWI
+THONNY, 
+ARDUINO
 
 ## Dibujo del personaje
+<img src="https://github.com/user-attachments/assets/77af5cb9-7b69-4f11-a8cc-59c503463fc1" width="350">
+
 
 ## Enlaces de la simulacion de wokwi
-Debe ser de 1 a 2 enlaces de wokwi
+![imagen](https://github.com/user-attachments/assets/391f8cf4-cd98-4c0d-a475-c55cd822d1c8)
 
+https://wokwi.com/projects/409955724819847169
 ## Videos
 Enlace del video en drive de maximo 5 minutos
 
 ## Capturas de evaluacion de curso de C
-![imagen](https://github.com/user-attachments/assets/58b69834-b99c-4ea6-b787-7c63f3bda08e)
-![imagen](https://github.com/user-attachments/assets/9d4bd2ba-09ca-4d9b-b3fc-76ed41a1149e)
-![imagen](https://github.com/user-attachments/assets/5e21ee1f-08e4-466e-8e7e-e1930550f4c7)
-![imagen](https://github.com/user-attachments/assets/fa677566-f115-41fa-9fe8-9b84cf85b47a)
+Examen 1
+![imagen](https://github.com/user-attachments/assets/b4599b87-e957-4ad1-8787-383df798c5ec)
+Examen 2
+![imagen](https://github.com/user-attachments/assets/2c9e8528-73a0-42ed-99c1-85279b05a7b6)
+Examen 3
+![imagen](https://github.com/user-attachments/assets/19e966d2-86cc-4c66-b46d-45b02e54861d)
+Examen 4
+![imagen](https://github.com/user-attachments/assets/dd37f45c-3c4c-4863-9c0a-597851154c9f)
+Examen 5
+![imagen](https://github.com/user-attachments/assets/72985318-6d48-475f-b066-7e28c110437c)
+Examen final
+![imagen](https://github.com/user-attachments/assets/d77d84b0-996f-40cb-8a77-6b0717ecc2e9)
+
+
+
+
