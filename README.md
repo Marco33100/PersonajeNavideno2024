@@ -41,7 +41,7 @@ https://wokwi.com/projects/409955724819847169
 Muñeco de nieve
 https://wokwi.com/projects/410220524143084545
 ## Videos
-Enlace del video en drive de maximo 5 minutos
+https://drive.google.com/drive/folders/1a5lMoed2JjY4o_X8bSbLjOKI0PTlS25d?usp=sharing
 
 ## Capturas de evaluacion de curso de C
 Examen 1
