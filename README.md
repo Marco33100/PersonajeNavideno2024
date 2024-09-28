@@ -4,7 +4,7 @@ Muñeco de nieve carismatico
 ## Creador
 Marco Antonio Martinez Ramirez
 ## Explicacion del funcionamiento
-El muñeco de nieve tendra la funcionalidad que gire sobre su propio eje, ademas de que la funcionalidad de que cuando una persona se acerque salude, que prendan y apaguen las luces leds y se ponga su gorro de navidad.
+El muñeco de nieve tendra la funcionalidad que gire sobre su propio eje usando un servo y un photoresistor, ademas de que la funcionalidad de que cuando una persona se acerque salude igual usando otro servo, que prendan sus ojos y su nariz y se ponga su gorro de navidad.
 
 # Materiales a utilizar
 |Material|Imagen|Cantidad|Costo|
